@@ -1,0 +1,36 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Placeholder Logo for Dreamland RP -->
+  <!-- Replace this with your actual logo -->
+  
+  <!-- Background Circle -->
+  <circle cx="150" cy="150" r="140" fill="url(#gradient1)" />
+  
+  <!-- Inner Circle -->
+  <circle cx="150" cy="150" r="110" fill="#1a1a1a" opacity="0.8" />
+  
+  <!-- Moon Crescent -->
+  <path d="M150 70C150 70 120 100 120 150C120 200 150 230 150 230C180 230 210 200 210 150C210 100 180 70 150 70Z" fill="url(#gradient2)" />
+  <circle cx="165" cy="140" r="50" fill="#1a1a1a" />
+  
+  <!-- Stars -->
+  <circle cx="110" cy="100" r="3" fill="white" opacity="0.8" />
+  <circle cx="190" cy="110" r="2" fill="white" opacity="0.6" />
+  <circle cx="120" cy="180" r="2.5" fill="white" opacity="0.7" />
+  <circle cx="185" cy="185" r="2" fill="white" opacity="0.5" />
+  
+  <!-- Text -->
+  <text x="150" y="260" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">DREAMLAND</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="16" fill="#5865f2" text-anchor="middle">ROLEPLAY</text>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5865f2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4752c4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b9bbbe;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+</svg>
